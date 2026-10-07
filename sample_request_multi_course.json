@@ -1,0 +1,141 @@
+{
+  "issuer": "Acme Academy",
+  "issue_date": "2026-10-07",
+  "recipients": [
+    {
+      "name": "Asha Rao",
+      "email": "asha.rao@example.com",
+      "course_name": "Python Programming Fundamentals"
+    },
+    {
+      "name": "Vikram Shetty",
+      "email": "vikram.shetty@example.com",
+      "course_name": "Data Structures and Algorithms"
+    },
+    {
+      "name": "Meera Nair",
+      "email": "meera.nair@example.com",
+      "course_name": "Full Stack Web Development"
+    },
+    {
+      "name": "Rohan Kulkarni",
+      "email": "rohan.kulkarni@example.com",
+      "course_name": "MERN Stack Development"
+    },
+    {
+      "name": "Priya Menon",
+      "email": "priya.menon@example.com",
+      "course_name": "Machine Learning Fundamentals"
+    },
+    {
+      "name": "Arjun Hegde",
+      "email": "arjun.hegde@example.com",
+      "course_name": "Django Web Development"
+    },
+    {
+      "name": "Sneha Iyer",
+      "email": "sneha.iyer@example.com",
+      "course_name": "SQL Fundamentals"
+    },
+    {
+      "name": "Karthik Gowda",
+      "email": "karthik.gowda@example.com",
+      "course_name": "Cloud Computing Fundamentals"
+    },
+    {
+      "name": "Divya Pai",
+      "email": "divya.pai@example.com",
+      "course_name": "Docker and Containerization"
+    },
+    {
+      "name": "Aditya Bhat",
+      "email": "aditya.bhat@example.com",
+      "course_name": "Cybersecurity Fundamentals"
+    },
+    {
+      "name": "Ananya Reddy",
+      "email": "ananya.reddy@example.com",
+      "course_name": "React.js Application Development"
+    },
+    {
+      "name": "Nikhil Joshi",
+      "email": "nikhil.joshi@example.com",
+      "course_name": "Deep Learning Fundamentals"
+    },
+    {
+      "name": "Kavya Nambiar",
+      "email": "kavya.nambiar@example.com",
+      "course_name": "System Design Fundamentals"
+    },
+    {
+      "name": "Rahul Deshpande",
+      "email": "rahul.deshpande@example.com",
+      "course_name": "Node.js Backend Development"
+    },
+    {
+      "name": "Pooja Kamath",
+      "email": "pooja.kamath@example.com",
+      "course_name": "Data Analytics with Python"
+    },
+    {
+      "name": "Siddharth Rao",
+      "email": "siddharth.rao@example.com",
+      "course_name": "Generative AI Fundamentals"
+    },
+    {
+      "name": "Lakshmi Narayan",
+      "email": "lakshmi.narayan@example.com",
+      "course_name": "Kubernetes Fundamentals"
+    },
+    {
+      "name": "Varun Shenoy",
+      "email": "varun.shenoy@example.com",
+      "course_name": "Java Programming Fundamentals"
+    },
+    {
+      "name": "Neha Patil",
+      "email": "neha.patil@example.com",
+      "course_name": "UI/UX Design Fundamentals"
+    },
+    {
+      "name": "Manoj Kumar",
+      "email": "manoj.kumar@example.com",
+      "course_name": "Natural Language Processing"
+    },
+    {
+      "name": "Tanvi Acharya",
+      "email": "tanvi.acharya@example.com",
+      "course_name": "Git and GitHub Essentials"
+    },
+    {
+      "name": "Harish Prabhu",
+      "email": "harish.prabhu@example.com",
+      "course_name": "Flask Web Application Development"
+    },
+    {
+      "name": "Ishita Banerjee",
+      "email": "ishita.banerjee@example.com",
+      "course_name": "AWS Cloud Practitioner Essentials"
+    },
+    {
+      "name": "Suresh Naik",
+      "email": "suresh.naik@example.com",
+      "course_name": "MongoDB for Developers"
+    },
+    {
+      "name": "Aishwarya Pillai",
+      "email": "aishwarya.pillai@example.com",
+      "course_name": "Agile Software Development"
+    },
+    {
+      "name": "Asha Rao",
+      "email": "asha.rao@example.com",
+      "course_name": "Advanced Python Programming"
+    },
+    {
+      "name": "Vikram Shetty",
+      "email": "vikram.shetty@example.com",
+      "course_name": "Advanced SQL and Query Optimization"
+    }
+  ]
+}
